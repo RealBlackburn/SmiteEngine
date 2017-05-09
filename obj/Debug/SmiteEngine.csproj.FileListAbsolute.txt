@@ -12,4 +12,3 @@ C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\obj\Debug\Sm
 C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\HesaEngine.Wrapper.dll
 C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\obj\Debug\SmiteEngine.csprojResolveAssemblyReference.cache

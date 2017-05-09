@@ -77,14 +77,11 @@ namespace SmiteEngine
                 small.Add(new MenuCheckbox("SRU_Murkwolf", "Wolves").SetValue(false));
 
                 var big = Menu.AddSubMenu("Big Mobs");
-
-               
                 big.Add(new MenuCheckbox("SRU_Baron", "Baron Nashor").SetValue(true));
                 big.Add(new MenuCheckbox("SRU_RiftHerald", "Rift Herald").SetValue(true));
                 big.Add(new MenuCheckbox("SRU_Dragon", "Dragons").SetValue(true));
                 big.Add(new MenuCheckbox("SRU_Blue", "Blue Buff").SetValue(true));
                 big.Add(new MenuCheckbox("SRU_Red", "Red Buff").SetValue(true));
-                big.Add(new MenuCheckbox("debug", "debug").SetValue(false));
             }
 
             if (IsTwistedTreeline)
@@ -144,16 +141,7 @@ namespace SmiteEngine
             {
                 return;
             }
-
             SmiteKill();
-
-
-            if (Menu.Get<MenuCheckbox>("debug").Checked && _minion != null && Vector3.Distance(ObjectManager.Player.ServerPosition, _minion.ServerPosition) <=
-                570)
-            {
-                Chat.Send(_minion.BaseSkinName);
-            }
-
 
             // MOBS EXCEPT DRAGON
             _minion = (Obj_AI_Minion) MinionManager.GetMinions(ObjectManager.Player.ServerPosition,
@@ -200,13 +188,7 @@ namespace SmiteEngine
             {
                 SmiteKill();
             }
-            
-
-
-
         }
     }
-
-
     }
 
