@@ -1,0 +1,15 @@
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SmiteEngine.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SmiteEngine.pdb
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\HesaEngine.Core.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\SharpDX.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\fasmdll_managed.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\fasmdll_managed.pdb
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\obj\Debug\SmiteEngine.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\obj\Debug\SmiteEngine.pdb
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\HesaEngine.Wrapper.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngine\SmiteEngine\obj\Debug\SmiteEngine.csprojResolveAssemblyReference.cache
