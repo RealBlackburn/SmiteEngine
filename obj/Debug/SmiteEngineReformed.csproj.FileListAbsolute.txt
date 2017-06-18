@@ -1,0 +1,13 @@
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SmiteEngineReformed.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SmiteEngineReformed.pdb
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\HesaEngine.Core.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\HesaEngine.Wrapper.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\Runtime.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.xml
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\obj\Debug\SmiteEngineReformed.dll
+C:\Users\Chehaiber\Desktop\Scripts\Projects\SmiteEngineReformed\SmiteEngineReformed\SmiteEngineReformed\obj\Debug\SmiteEngineReformed.pdb
